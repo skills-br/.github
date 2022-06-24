@@ -1,12 +1,12 @@
-# Advance your GitHub journey
+# Avance em sua jornada no GitHub
 
 <img alt="" src=https://user-images.githubusercontent.com/1221423/156894097-ff2d6566-7b6a-4488-950e-f4ebe990965a.svg width=200 align=right>
 
-_Learn how to use GitHub with interactive courses designed for beginners and experts._
+_Aprenda a usar o GitHub com cursos interativos projetados para iniciantes e experts._
 
-- **Learning should be fun**: There are no simulations or boring tutorials here, just hands-on lessons created by GitHub and taught with GitHub Actions.
-- **Real projects**: Learn new skills while working in your own copy of a real project.
-- **Helpful bot**: GitHub Actions provides instructions and feedback throughout your journey.
-- **Real workflow**: Everything happens with real GitHub features, such as Issues, Actions, and Codespaces.
+- **Aprender deve ser divertido**: Não há simulações ou tutoriais chatos aqui, apenas aulas práticas criadas pelo GitHub e ensinadas através do GitHub Actions.
+- **Projetos reais**: Aprenda novas habilidades enquanto trabalha em sua própria cópia de um projeto real.
+- **Bot ajudante**: O GitHub Actions fornece instruções e dá feedback ao longo de sua jornada.
+- **Workflow real**: Tudo acontece com features reais do GitHub, como Issues, Actions e Codespaces.
 
-Get started building your own courses with our [GitHub Skills Quickstart Guide](https://skills.github.com/quickstart). 🌟
+Comece a criar seus próprios cursos com nosso [Guia de Introdução às GitHub Skills](https://skills.github.com/quickstart). 🌟
