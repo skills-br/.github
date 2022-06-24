@@ -1,9 +1,9 @@
 # GitHub Skills
 
-_This is not a course._ See https://skills.github.com for our list of available courses.
+_Esse não é um curso._ Acesse https://skills.github.com para nossa lista de cursos disponíveis.
 
-See [profile/README.md](profile/README.md) for more information about GitHub Skills.
+Consulte [profile/README.md](profile/README.md) para mais informações sobre o GitHub Skills.
 
-See the [GitHub Skills Quickstart Guide](https://skills.github.com/quickstart) to learn how to build your own Actions-backed courses. See [CONTENT_MODEL.md](https://skills.github.com/content-model) for more information about how to write the content for GitHub Skills courses.
+Consulte o [Guia de Introdução às GitHub Skills](https://skills.github.com/quickstart) para aprender a construir seus próprios cursos baseados em Actions. Veja [CONTENT_MODEL.md](https://skills.github.com/content-model) para obter mais informações sobre como escrever o conteúdo dos cursos do GitHub Skills.
 
 &copy; 2022 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](LICENSE)
