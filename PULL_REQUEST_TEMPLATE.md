@@ -1,12 +1,12 @@
-### Why:
+### Razão:
 
-Closes [issue link]
+Resolve [issue link]
 
-### What's being changed:
+### O que está sendo modificado:
 
-<!-- Share artifacts of the changes, be they code snippets, GIFs or screenshots; whatever shares the most context. -->
+<!-- Compartilhe artefatos das alterações, sejam eles trechos de código, GIFs ou capturas de tela; o que for capaz de fornecer mais contexto. -->
 
-### Check off the following:
+### Certifique-se do seguinte:
 
-- [ ] For workflow changes, I have verified the Actions workflows function as expected.
-- [ ] For content changes, I have reviewed the [style guide](https://github.com/github/docs/blob/main/contributing/content-style-guide.md).
+- [ ] Para alterações no workflow, verifiquei que os Actions workflows funcionam como esperado.
+- [ ] Para alterações de conteúdo, segui o [guia de estilos](https://github.com/github/docs/blob/main/contributing/content-style-guide.md).
