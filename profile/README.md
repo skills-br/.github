@@ -10,3 +10,10 @@ _Aprenda a usar o GitHub com cursos interativos projetados para iniciantes e exp
 - **Workflow real**: Tudo acontece com features reais do GitHub, como Issues, Actions e Codespaces.
 
 Comece a criar seus próprios cursos com nosso [Guia de Introdução às GitHub Skills](https://skills.github.com/quickstart). 🌟
+
+
+---
+
+_Essa é uma **tradução não-oficial** do GitHub Skills. Para ter acesso aos arquivos originais (em inglês), acesse [github.com/skills](https://github.com/skills)._
+
+© 2022 GitHub • [CC-BY-4.0 License](https://github.com/skills/.github/blob/main/LICENSE)
